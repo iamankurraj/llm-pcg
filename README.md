@@ -208,7 +208,3 @@ Natural Language Prompt
 - Quantitative evaluation against manually authored scenes
 
 ---
-
-## License
-
-For academic and research purposes.
